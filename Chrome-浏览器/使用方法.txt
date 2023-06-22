@@ -1,0 +1,10 @@
+1.打开浏览器的扩展程序页面
+2.直接将该文件拖拽到浏览器中
+3.刷新浏览器或重启浏览器即可生效。
+
+参考教程：
+https://www.jianshu.com/p/bb51dc91b93a
+
+或者使用此种方法：
+https://jingyan.baidu.com/article/48b37f8d5ad2315a646488ec.html
+

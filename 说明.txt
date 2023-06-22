@@ -1,0 +1,15 @@
+阿里云盘分享的exe格式为自解压格式，需要解压后才可以使用！
+阿里云盘分享的exe格式为自解压格式，需要解压后才可以使用！
+阿里云盘分享的exe格式为自解压格式，需要解压后才可以使用！
+
+本文档只保证可科学上网，并不保证稳定、速度。
+
+通过本文档您可以解决科学上网问题，但是这并不意味着是长期使用的方法，当你成功上网后，请另寻更加稳定的方法
+
+
+临时存储网盘：https://xiaobing-my.sharepoint.com/:f:/g/personal/if404_blay_tw/EjuJCuQm4DJCryNZxHi9wjsBDDJucpDVPL1OAu8Sb1OnuQ?e=BkkIJz
+
+
+如果有什么需求或问题、建议，欢迎提出，也可以发送邮件：aselierlin@gmail.com
+
+若本项目对您有所帮助，欢迎Star：https://github.com/selierlin/Share-SSR-V2ray
